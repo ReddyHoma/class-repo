@@ -1,4 +1,4 @@
-Kristian	
+Reddy	
 Germany	
-Meta Front-End course
+Meta Front-End coursera
 
